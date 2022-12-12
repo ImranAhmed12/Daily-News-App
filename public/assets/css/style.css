@@ -1,0 +1,21 @@
+.background{
+    background-color: blueviolet;
+    color: white;
+   
+}
+.bth:hover{
+    background-color: rgb(46, 8, 81);
+    color: white;
+}
+.card-title{
+    height: 100px;
+}
+.card-text{
+    height: 200px;
+}
+.card-source{
+    padding: "5px";
+    background-color: burlywood;
+    font-size: 12px;
+    text-align: center;
+}
